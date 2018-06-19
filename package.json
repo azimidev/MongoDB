@@ -1,0 +1,24 @@
+{
+  "name": "MongoDB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "06.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassanazimi/MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassanazimi/MongoDB/issues"
+  },
+  "homepage": "https://github.com/hassanazimi/MongoDB#readme",
+  "dependencies": {
+    "hapi": "^17.5.1",
+    "mongodb": "^3.0.10"
+  }
+}
