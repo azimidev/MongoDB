@@ -1,0 +1,603 @@
+[
+  {
+    "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.", 
+    "genres": [
+      "Action", 
+      "Drama", 
+      "History", 
+      "War"
+    ], 
+    "_id": "Braveheart", 
+    "img": "/2qAgGeYdLjelOEqjW9FYvPHpplC.jpg", 
+    "popularity": 3.806063
+  }, 
+  {
+    "overview": "Barney, Christmas and the rest of the team comes face-to-face with Conrad Stonebanks, who years ago co-founded The Expendables with Barney. Stonebanks subsequently became a ruthless arms trader and someone who Barney was forced to kill\u2026 or so he thought. Stonebanks, who eluded death once before, now is making it his mission to end The Expendables -- but Barney has other plans. Barney decides that he has to fight old blood with new blood, and brings in a new era of Expendables team members, recruiting individuals who are younger, faster and more tech-savvy. The latest mission becomes a clash of classic old-school style versus high-tech expertise in the Expendables\u2019 most personal battle yet.", 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Thriller"
+    ], 
+    "_id": "The Expendables 3", 
+    "img": "/xczFwJhcCb2rUMylXam0Ni7Yn5o.jpg", 
+    "popularity": 3.863774
+  }, 
+  {
+    "overview": "A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.", 
+    "genres": [
+      "Drama", 
+      "Thriller", 
+      "Science Fiction", 
+      "Mystery"
+    ], 
+    "_id": "Signs", 
+    "img": "/bY9lCUVUajpkKWlfjWF1mtXaSUp.jpg", 
+    "popularity": 2.492322
+  }, 
+  {
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.", 
+    "genres": [
+      "Drama"
+    ], 
+    "_id": "Fight Club", 
+    "img": "/adw6Lq9FiC9zjYEpOqfq03ituwp.jpg", 
+    "popularity": 6.492569
+  }, 
+  {
+    "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.", 
+    "genres": [
+      "Drama", 
+      "Action", 
+      "Thriller", 
+      "War"
+    ], 
+    "_id": "Inglourious Basterds", 
+    "img": "/6zYuTKyvcwmtNvXXvJZNT0IgBL0.jpg", 
+    "popularity": 4.771126
+  }, 
+  {
+    "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.", 
+    "genres": [
+      "Action", 
+      "Drama", 
+      "Horror", 
+      "Science Fiction", 
+      "Thriller"
+    ], 
+    "_id": "World War Z", 
+    "img": "/Ha5t0J21eyiq6Az1EXzx0iwsGH.jpg", 
+    "popularity": 3.861694
+  }, 
+  {
+    "overview": "After years of increases in the greenhouse effect,  havoc is wreaked globally in the form of catastrophic hurricanes, tornadoes, tidal waves, floods and the beginning of a new Ice Age. Paleoclimatologist, Jack Hall tries to warn the world while also shepherding to safety his son, trapped in New York after the city is overwhelmed by the start of the new big freeze.", 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Science Fiction", 
+      "Thriller"
+    ], 
+    "_id": "The Day After Tomorrow", 
+    "img": "/pRmpaFjtegy8PnUvSBDyT9dm7c.jpg", 
+    "popularity": 2.645604
+  }, 
+  {
+    "overview": "A story about friendship and loyalty, guilt and vengeance, and the fateful affect the past has on the present.", 
+    "genres": [
+      "Thriller", 
+      "Crime", 
+      "Drama", 
+      "Mystery"
+    ], 
+    "_id": "Mystic River", 
+    "img": "/qeHasONCKH5sR9HcTWquXI5ZN5y.jpg", 
+    "popularity": 2.581658
+  }, 
+  {
+    "overview": "Ethan Wate just wants to get to know Lena Duchannes better, but unbeknownst to him, Lena has strange powers.  As Lena's 16th birthday approaches she might decide her fate, to be good or evil.  A choice which will impact her relationship forever.", 
+    "genres": [
+      "Fantasy", 
+      "Drama", 
+      "Romance"
+    ], 
+    "_id": "Beautiful Creatures", 
+    "img": "/s3hqcqoMr9yVBOvRLufSZSGvNve.jpg", 
+    "popularity": 2.403759
+  }, 
+  {
+    "overview": "An antiterrorism agent goes under the knife to acquire the likeness of a terrorist and gather details about a bombing plot. When the terrorist escapes custody, he undergoes surgery to look like the agent so he can get close to the agent's family.", 
+    "genres": [
+      "Action", 
+      "Crime", 
+      "Science Fiction", 
+      "Thriller"
+    ], 
+    "_id": "Face/Off", 
+    "img": "/q1i8QHiHZ1cukG5iOxai8pydmoa.jpg", 
+    "popularity": 2.679714
+  }, 
+  {
+    "overview": "A young widow discovers that her late husband has left her 10 messages intended to help ease her pain and start a new life.", 
+    "genres": [
+      "Drama", 
+      "Romance"
+    ], 
+    "_id": "P.S. I Love You", 
+    "img": "/esfuYEvv7WrLvXNkCg7MCufEEdH.jpg", 
+    "popularity": 2.486883
+  }, 
+  {
+    "overview": "In a world connected by YouTube, iTunes, and Facebook, Lola and her friends navigate the peer pressures of high school romance and friendship while dodging their sometimes overbearing and confused parents. When Lola's mom, Anne, \"accidentally\" reads her teenage daughter's racy journal, she realizes just how wide their communication gap has grown.", 
+    "genres": [
+      "Drama", 
+      "Comedy", 
+      "Romance"
+    ], 
+    "_id": "LOL", 
+    "img": "/vlG6iHT1RuT9xLj17SmNNUd8jJZ.jpg", 
+    "popularity": 1.811567
+  }, 
+  {
+    "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard -- with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths -- and about the villain who's to blame.", 
+    "genres": [
+      "Adventure", 
+      "Fantasy", 
+      "Family"
+    ], 
+    "_id": "Harry Potter and the Philosopher's Stone", 
+    "img": "/dCtFvscYcXQKTNvyyaQr2g2UacJ.jpg", 
+    "popularity": 8.546239
+  }, 
+  {
+    "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.", 
+    "genres": [
+      "Adventure", 
+      "Family", 
+      "Fantasy"
+    ], 
+    "_id": "Harry Potter and the Deathly Hallows: Part 2", 
+    "img": "/fTplI1NCSuEDP4ITLcTps739fcC.jpg", 
+    "popularity": 5.777305
+  }, 
+  {
+    "overview": "Harry, Ron and Hermione return to Hogwarts for another magic-filled year. Harry comes face to face with danger yet again, this time in the form of escaped convict, Sirius Black \u2013 and turns to sympathetic Professor Lupin for help.", 
+    "genres": [
+      "Adventure", 
+      "Fantasy", 
+      "Family"
+    ], 
+    "_id": "Harry Potter and the Prisoner of Azkaban", 
+    "img": "/qMn0YCWKxt7xg8nqRnRj2Ei9qgx.jpg", 
+    "popularity": 5.327337
+  }, 
+  {
+    "overview": "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.", 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Drama", 
+      "Science Fiction"
+    ], 
+    "_id": "Supergirl", 
+    "img": "/cbe7Fzze4uvcwzKnDfE6AibuyMR.jpg", 
+    "popularity": 11.906778
+  }, 
+  {
+    "overview": "While attending a party at James Franco's house, Seth Rogen, Jay Baruchel and many other celebrities are faced with the apocalypse.", 
+    "genres": [
+      "Action", 
+      "Comedy"
+    ], 
+    "_id": "This Is the End", 
+    "img": "/1rMzHyOsk1b1ddcFJgMSB6kOASu.jpg", 
+    "popularity": 3.17389
+  }, 
+  {
+    "overview": "Andy Stitzer has a pleasant life with a nice apartment and a job stamping invoices at an electronics store. But at age 40, there's one thing Andy hasn't done, and it's really bothering his sex-obsessed male co-workers: Andy is still a virgin. Determined to help Andy get laid, the guys make it their mission to de-virginize him. But it all seems hopeless until Andy meets small business owner Trish, a single mom.", 
+    "genres": [
+      "Comedy", 
+      "Romance"
+    ], 
+    "_id": "The 40 Year Old Virgin", 
+    "img": "/wAKUo12pRBGyFJQV27LFJoTvMU5.jpg", 
+    "popularity": 2.492965
+  }, 
+  {
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.", 
+    "genres": [
+      "Action", 
+      "Thriller", 
+      "Science Fiction", 
+      "Mystery", 
+      "Adventure"
+    ], 
+    "_id": "Inception", 
+    "img": "/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg", 
+    "popularity": 8.065151
+  }, 
+  {
+    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.", 
+    "genres": [
+      "Action", 
+      "Crime", 
+      "Drama", 
+      "Thriller"
+    ], 
+    "_id": "The Dark Knight Rises", 
+    "img": "/dEYnvnUfXrqvqeRSqvIEtmzhoA8.jpg", 
+    "popularity": 7.046962
+  }, 
+  {
+    "overview": "A romantic comedy about a family traveling to the French capital for business. The party includes a young engaged couple forced to confront the illusion that a life different from their own is better.", 
+    "genres": [
+      "Fantasy", 
+      "Comedy", 
+      "Romance"
+    ], 
+    "_id": "Midnight in Paris", 
+    "img": "/xxSopLYATHXSepXcEaBh9Gazv6p.jpg", 
+    "popularity": 2.716898
+  }, 
+  {
+    "overview": "Inspired by the incredible events surrounding a treacherous attempt to reach the summit of the world's highest mountain, \"Everest\" documents the awe-inspiring journey of two different expeditions challenged beyond their limits by one of the fiercest snowstorms ever encountered by mankind. Their mettle tested by the harshest of elements found on the planet, the climbers will face nearly impossible obstacles as a lifelong obsession becomes a breathtaking struggle for survival.", 
+    "genres": [
+      "Adventure", 
+      "Drama"
+    ], 
+    "_id": "Everest", 
+    "img": "/t3ELL46AnqjS9djz1vEVh4MpKv0.jpg", 
+    "popularity": 3.328455
+  }, 
+  {
+    "overview": "Vikings follows the adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.", 
+    "genres": [
+      "Drama"
+    ], 
+    "_id": "Vikings", 
+    "img": "/mBDlsOhNOV1MkNii81aT14EYQ4S.jpg", 
+    "popularity": 37.842288
+  }, 
+  {
+    "overview": "The Doctor looks and seems human. He's handsome, witty, and could be mistaken for just another man in the street. But he is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living \u2013 more of a hobby actually, and he's very, very good at it. He's saved us from alien menaces and evil from before time began \u2013 but just who is he?", 
+    "genres": [
+      "Drama"
+    ], 
+    "_id": "Doctor Who", 
+    "img": "/igDhbYQTvact1SbNDbzoeiFBGda.jpg", 
+    "popularity": 26.471125
+  }, 
+  {
+    "overview": "19-year old Belle practices playing the violin diligently, but is unable to impart her music with a sensitive undertone. Her life changes when she discovers that sexual desire stimulates passion in her music.", 
+    "genres": [
+      "Romance", 
+      "Music"
+    ], 
+    "_id": "LelleBelle", 
+    "img": "/chL8jvp6TjxIRxWgIBjhTV3tCaE.jpg", 
+    "popularity": 1.721554
+  }, 
+  {
+    "overview": "The film focuses on the tumultuous romance in the lives of four women in The Hague. Teenage daughter Eva, her mother Judith, aunt Barbara and older sister Anna make it under one roof Hague together a nice game of. They are beautiful, courageous and sensible, but sometimes they just do not know in a world full of tender love, serial dating, slaked lust, affairs, children's desires and indestructible old loves.", 
+    "genres": [
+      "Comedy", 
+      "Romance"
+    ], 
+    "_id": "Madly in Love", 
+    "img": "/owODdPSAhriSG5mXMAUlma5QPP4.jpg", 
+    "popularity": 1.096202
+  }, 
+  {
+    "overview": "De ouders van Isa en haar oudere broer Kars gooien het roer om en beginnen een camping in Frankrijk. Isa en Kars hebben het gevoel naar Timboektoe te verhuizen en alles te verliezen. Lang klagen ze gelukkig niet, want al snel maken ze nieuwe vrienden. Maar terwijl nieuwe vriendschappen opbloeien, komt camping Timboektoe in de problemen. Niet ver bij hen vandaan is een andere camping geopend en de onsympathieke eigenaar probeert camping Timboektoe aan alle kanten te beschadigen. Het ziet er zelfs naar uit dat de camping moet sluiten\u2026. Zal het Isa en Kars lukken om Timboektoe open te houden?", 
+    "genres": [
+      "Romance", 
+      "Family"
+    ], 
+    "_id": "Timboektoe", 
+    "img": "/pBGWKdxibV2QFjktKrWBBIynP2K.jpg", 
+    "popularity": 1.133928
+  }, 
+  {
+    "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.", 
+    "genres": [
+      "Drama"
+    ], 
+    "_id": "The Flash", 
+    "img": "/lUFK7ElGCk9kVEryDJHICeNdmd1.jpg", 
+    "popularity": 27.837669
+  }, 
+  {
+    "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.", 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Crime", 
+      "Drama", 
+      "Mystery", 
+      "Science Fiction"
+    ], 
+    "_id": "Arrow", 
+    "img": "/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg", 
+    "popularity": 19.452921
+  }, 
+  {
+    "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.", 
+    "genres": [
+      "Animation", 
+      "Comedy"
+    ], 
+    "_id": "Family Guy", 
+    "img": "/gBGUL1UTUNmdRQT8gA1LUV4yg39.jpg", 
+    "popularity": 13.488253
+  }, 
+  {
+    "overview": "FBI trainee, Clarice Starling ventures into a maximum-security asylum to pick the diseased brain of Hannibal Lecter, a psychiatrist turned homicidal cannibal. Starling needs clues to help her capture a serial killer. but her Faustian relationship with Lecter soon leads to his escape, and now two deranged killers are on the loose.", 
+    "genres": [
+      "Crime", 
+      "Drama", 
+      "Thriller"
+    ], 
+    "_id": "The Silence of the Lambs", 
+    "img": "/qjAyTj2BSth1EQ89vNfo0JYVPFN.jpg", 
+    "popularity": 1.658165
+  }, 
+  {
+    "overview": "In the year 2159, two classes of people exist: the very wealthy who live on a pristine man-made space station called Elysium, and the rest, who live on an overpopulated, ruined Earth. Secretary Rhodes (Jodie Foster), a hard line government of\ufb01cial, will stop at nothing to enforce anti-immigration laws and preserve the luxurious lifestyle of the citizens of Elysium. That doesn\u2019t stop the people of Earth from trying to get in, by any means they can. When unlucky Max (Matt Damon) is backed into a corner, he agrees to take on a daunting mission that, if successful, will not only save his life, but could bring equality to these polarized worlds.", 
+    "genres": [
+      "Science Fiction", 
+      "Action", 
+      "Drama", 
+      "Thriller"
+    ], 
+    "_id": "Elysium", 
+    "img": "/tHkjoAxmhp3Eau1h0Ir7maKMwUz.jpg", 
+    "popularity": 3.198851
+  }, 
+  {
+    "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.", 
+    "genres": [
+      "Crime", 
+      "Drama"
+    ], 
+    "_id": "Taxi Driver", 
+    "img": "/yxq4pk1xGmro8tQABuQIrWrvdaE.jpg", 
+    "popularity": 4.312519
+  }, 
+  {
+    "overview": "In The Equalizer, Denzel Washington plays McCall, a man who believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when McCall meets Teri (Chlo\u00eb Grace Moretz), a young girl under the control of ultra-violent Russian gangsters, he can\u2019t stand idly by \u2013 he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.", 
+    "genres": [
+      "Thriller", 
+      "Action", 
+      "Crime"
+    ], 
+    "_id": "The Equalizer", 
+    "img": "/2eQfjqlvPAxd9aLDs8DvsKLnfed.jpg", 
+    "popularity": 6.70041
+  }, 
+  {
+    "overview": "Commercial airline pilot Whip Whitaker has a problem with drugs and alcohol, though so far he's managed to complete his flights safely. His luck runs out when a disastrous mechanical malfunction sends his plane hurtling toward the ground. Whip pulls off a miraculous crash-landing that results in only six lives lost. Shaken to the core, Whip vows to get sober -- but when the crash investigation exposes his addiction, he finds himself in an even worse situation.", 
+    "genres": [
+      "Drama"
+    ], 
+    "_id": "Flight", 
+    "img": "/8XEbkjgorAm9xk15mF63jqJ4ByV.jpg", 
+    "popularity": 3.017831
+  }, 
+  {
+    "overview": "A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.", 
+    "genres": [
+      "Action", 
+      "Thriller", 
+      "Science Fiction"
+    ], 
+    "_id": "The Book of Eli", 
+    "img": "/qL3FnEug9DyBcaBXVb0oT3DJMJu.jpg", 
+    "popularity": 2.83785
+  }, 
+  {
+    "overview": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.", 
+    "genres": [
+      "Adventure", 
+      "Animation", 
+      "Comedy", 
+      "Family"
+    ], 
+    "_id": "The Secret Life of Pets", 
+    "img": "/WLQN5aiQG8wc9SeKwixW7pAR8K.jpg", 
+    "popularity": 150.304116
+  }, 
+  {
+    "overview": "When a mild-mannered businessman learns his identity has been stolen, he hits the road in an attempt to foil the thief -- a trip that puts him in the path of a deceptively harmless-looking woman.", 
+    "genres": [
+      "Comedy", 
+      "Crime"
+    ], 
+    "_id": "Identity Thief", 
+    "img": "/lOF4rI6SxgRsVLW8odsauqnhB9Z.jpg", 
+    "popularity": 2.677071
+  }, 
+  {
+    "overview": "A lazy, incompetent middle school teacher who hates her job and her students is forced to return to her job to make enough money for a boob job after her rich fianc\u00e9 dumps her.", 
+    "genres": [
+      "Comedy"
+    ], 
+    "_id": "Bad Teacher", 
+    "img": "/ejTcAKe5F3zsvU9GXyl2ODAhkWl.jpg", 
+    "popularity": 3.064001
+  }, 
+  {
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.", 
+    "genres": [
+      "Action", 
+      "Science Fiction"
+    ], 
+    "_id": "The Matrix", 
+    "img": "/lZpWprJqbIFpEV5uoHfoK0KCnTW.jpg", 
+    "popularity": 6.798642
+  }, 
+  {
+    "overview": "After the sudden death of his beloved wife, John Wick receives one last gift from her, a beagle puppy named Daisy, and a note imploring him not to forget how to love. But John's mourning is interrupted when his 1969 Boss Mustang catches the eye of sadistic thug Iosef Tarasov who breaks into his house and steals it, beating John unconscious in the process. Unwittingly, he has just reawakened one of the most brutal assassins the underworld has ever known.", 
+    "genres": [
+      "Action", 
+      "Thriller"
+    ], 
+    "_id": "John Wick", 
+    "img": "/5vHssUeVe25bMrof1HyaPyWgaP.jpg", 
+    "popularity": 9.811835
+  }, 
+  {
+    "overview": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance.  Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition. But a nasty piece of news hits the human resistance: 250,000 machine sentinels are digging to Zion and would reach them in 72 hours. As Zion prepares for the ultimate war, Neo, Morpheus and Trinity are advised by the Oracle to find the Keymaker who would help them reach the Source.  Meanwhile Neo's recurrent dreams depicting Trinity's death have got him worried and as if it was not enough, Agent Smith has somehow escaped deletion, has become more powerful than before and has fixed Neo as his next target.", 
+    "genres": [
+      "Adventure", 
+      "Action", 
+      "Thriller", 
+      "Science Fiction"
+    ], 
+    "_id": "The Matrix Reloaded", 
+    "img": "/ezIurBz2fdUc68d98Fp9dRf5ihv.jpg", 
+    "popularity": 4.283299
+  }, 
+  {
+    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.", 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Science Fiction", 
+      "Thriller"
+    ], 
+    "_id": "Jurassic World", 
+    "img": "/jjBgi2r5cRt36xF6iNUEhzscEcb.jpg", 
+    "popularity": 90.40837
+  }, 
+  {
+    "overview": "Men in Black follows the exploits of agents Kay and Jay, members of a top-secret organization established to monitor and police alien activity on Earth. The two Men in Black find themselves in the middle of the deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies. In order to prevent worlds from colliding, the MiB must track down the terrorist and prevent the destruction of Earth. It's just another typical day for the Men in Black.", 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Comedy", 
+      "Science Fiction"
+    ], 
+    "_id": "Men in Black", 
+    "img": "/f24UVKq3UiQWLqGWdqjwkzgB8j8.jpg", 
+    "popularity": 4.902166
+  }, 
+  {
+    "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.", 
+    "genres": [
+      "Drama", 
+      "War"
+    ], 
+    "_id": "Full Metal Jacket", 
+    "img": "/29veIwD38rVL2qY74emXQw4y25H.jpg", 
+    "popularity": 3.999091
+  }, 
+  {
+    "overview": "A mysterious Hollywood stuntman who moonlights as a getaway driver seems to be trying to escape his shady past \u2013 until he falls for his neighbor, whose husband is in prison and who's looking after her child alone.", 
+    "genres": [
+      "Drama", 
+      "Action", 
+      "Thriller", 
+      "Crime"
+    ], 
+    "_id": "Drive", 
+    "img": "/nu7XIa67cXc2t7frXCE5voXUJcN.jpg", 
+    "popularity": 3.922018
+  }, 
+  {
+    "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.", 
+    "genres": [
+      "Romance", 
+      "Drama"
+    ], 
+    "_id": "The Notebook", 
+    "img": "/gMfstesBXKdsHToAUXVPHujUDfb.jpg", 
+    "popularity": 3.504691
+  }, 
+  {
+    "overview": "Cal Weaver is living the American dream. He has a good job, a beautiful house, great children and a beautiful wife, named Emily. Cal's seemingly perfect life unravels, however, when he learns that Emily has been unfaithful and wants a divorce. Over 40 and suddenly single, Cal is adrift in the fickle world of dating. Enter, Jacob Palmer, a self-styled player who takes Cal under his wing and teaches him how to be a hit with the ladies.", 
+    "genres": [
+      "Comedy", 
+      "Drama", 
+      "Romance"
+    ], 
+    "_id": "Crazy, Stupid, Love.", 
+    "img": "/n97V1WcpoJ8gBA0pM48Om05o2fN.jpg", 
+    "popularity": 3.36564
+  }, 
+  {
+    "overview": "Against his father Odin's will, The Mighty Thor -a powerful but arrogant warrior god -recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.", 
+    "genres": [
+      "Adventure", 
+      "Fantasy", 
+      "Action"
+    ], 
+    "_id": "Thor", 
+    "img": "/bIuOWTtyFPjsFDevqvF3QrD1aun.jpg", 
+    "popularity": 5.670697
+  }, 
+  {
+    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!", 
+    "genres": [
+      "Science Fiction", 
+      "Action", 
+      "Adventure"
+    ], 
+    "_id": "The Avengers", 
+    "img": "/cezWGskPY5x7GaglTTRN4Fugfb8.jpg", 
+    "popularity": 8.185595
+  }, 
+  {
+    "overview": "Predominantly set during World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull \u2013 Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.", 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Science Fiction"
+    ], 
+    "_id": "Captain America: The First Avenger", 
+    "img": "/dlIPGXPxXQTp9kFrRzn0RsfUelx.jpg", 
+    "popularity": 3.631017
+  }, 
+  {
+    "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth\u2019s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.", 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Science Fiction"
+    ], 
+    "_id": "Avengers: Age of Ultron", 
+    "img": "/t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg", 
+    "popularity": 6.503449
+  }, 
+  {
+    "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.", 
+    "genres": [
+      "Action", 
+      "Science Fiction", 
+      "Adventure"
+    ], 
+    "_id": "X-Men: First Class", 
+    "img": "/7SSm7BfzFoVzmd6fCDccj7qRxc8.jpg", 
+    "popularity": 1.159939
+  }, 
+  {
+    "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.", 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Fantasy", 
+      "Science Fiction"
+    ], 
+    "_id": "X-Men: Apocalypse", 
+    "img": "/zSouWWrySXshPCT4t3UKCQGayyo.jpg", 
+    "popularity": 8.590188
+  }, 
+  {
+    "overview": "Ten years after the invasion of Naboo, the galaxy is on the brink of civil war. Under the leadership of a renegade Jedi named Count Dooku, thousands of solar systems threaten to break away from the Galactic Republic. When an assassination attempt is made on Senator Padm\u00e9 Amidala, the former Queen of Naboo, twenty-year-old Jedi apprentice Anakin Skywalker is assigned to protect her. In the course of his mission, Anakin discovers his love for Padm\u00e9 as well as his own darker side. Soon, Anakin, Padm\u00e9, and Obi-Wan Kenobi are drawn into the heart of the Separatist movement and the beginning of the Clone Wars.", 
+    "genres": [
+      "Adventure", 
+      "Action", 
+      "Science Fiction"
+    ], 
+    "_id": "Star Wars: Episode II - Attack of the Clones", 
+    "img": "/2vcNFtrZXNwIcBgH5e2xXCmVR8t.jpg", 
+    "popularity": 3.514255
+  }
+]
